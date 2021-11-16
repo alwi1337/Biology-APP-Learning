@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.biologyapplearning">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BiologyAppLearning">
+        <activity
+            android:name=".kls12bab5"
+            android:exported="true" />
+        <activity
+            android:name=".kls12bab4"
+            android:exported="true" />
+        <activity
+            android:name=".kls12bab3"
+            android:exported="true" />
+        <activity
+            android:name=".kls12bab2"
+            android:exported="true" />
+        <activity
+            android:name=".kls12bab1"
+            android:exported="true" />
+        <activity
+            android:name=".kls11bab5"
+            android:exported="true" />
+        <activity
+            android:name=".kls11bab4"
+            android:exported="true" />
+        <activity
+            android:name=".kls11bab3"
+            android:exported="true" />
+        <activity
+            android:name=".kls11bab2"
+            android:exported="true" />
+        <activity
+            android:name=".kls11bab1"
+            android:exported="true" />
+        <activity
+            android:name=".kls10bab5"
+            android:exported="true" />
+        <activity
+            android:name=".kls10bab4"
+            android:exported="true" />
+        <activity
+            android:name=".kls10bab3"
+            android:exported="true" />
+        <activity
+            android:name=".kls10bab2"
+            android:exported="true" />
+        <activity
+            android:name=".kls10bab1"
+            android:exported="true" />
+        <activity
+            android:name=".vidio12"
+            android:exported="true" />
+        <activity
+            android:name=".kuis12"
+            android:exported="true" />
+        <activity
+            android:name=".Materi12"
+            android:exported="true" />
+        <activity
+            android:name=".vidio11"
+            android:exported="true" />
+        <activity
+            android:name=".kuis11"
+            android:exported="true" />
+        <activity
+            android:name=".Materi11"
+            android:exported="true" />
+        <activity
+            android:name=".vidio10"
+            android:exported="true" />
+        <activity
+            android:name=".kuis10"
+            android:exported="true" />
+        <activity
+            android:name=".Materi10"
+            android:exported="true" />
+        <activity
+            android:name=".aboutus"
+            android:exported="true" />
+        <activity
+            android:name=".kelas12"
+            android:exported="true" />
+        <activity
+            android:name=".kelas11"
+            android:exported="true" />
+        <activity
+            android:name=".kelas10"
+            android:exported="true" />
+        <activity
+            android:name=".homeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

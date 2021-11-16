@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_aboutus.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kelas10.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kelas11.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kelas12.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls10bab1.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls10bab2.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls10bab3.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls10bab4.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls10bab5.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls11bab1.xml" value="0.165625" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls11bab2.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls11bab3.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls11bab4.xml" value="0.165625" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls11bab5.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls12bab1.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls12bab2.xml" value="0.165625" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls12bab3.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls12bab4.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kls12bab5.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kuis10.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kuis11.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_kuis12.xml" value="0.165625" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_materi10.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_materi11.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_materi12.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_vidio10.xml" value="0.1796875" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_vidio11.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/Semester 3/app/src/main/res/layout/activity_vidio12.xml" value="0.165625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
